@@ -1,5 +1,5 @@
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/22373f8b8230543c50ff0b10aff0dac6" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/2bb05a98c541b99e8793360d7e14488a" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🚓 Grand Theft Auto V               🕘 200 hrs 16 mins
 🎮 Fall Guys: Ultimate Knockout     🕘 34 hrs 16 mins
