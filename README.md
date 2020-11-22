@@ -1,3 +1,8 @@
+<p>
+  <a href="https://moe-counter.anyfan.repl.co/get/@github.readme"><img src="https://moe-counter.anyfan.repl.co/get/@github.readme"></a>
+  <img src="https://weather-icon.anyfan.repl.co/@shanghai" align="right">
+</p>
+
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/2bb05a98c541b99e8793360d7e14488a" target="_blank">🎮 Steam playtime leaderboard</a>
