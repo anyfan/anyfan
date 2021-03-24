@@ -12,7 +12,7 @@
 🎮 Fall Guys: Ultimate Knockout     🕘 39 hrs 53 mins
 🎮 Terraria                         🕘 31 hrs 30 mins
 🎮 仙剑奇侠传四(Chinese Paladin：Sword and Fairy 4) 🕘 27 hrs 2 mins
-🎮 Factorio                         🕘 24 hrs 52 mins
+🎮 Factorio                         🕘 24 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
