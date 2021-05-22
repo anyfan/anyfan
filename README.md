@@ -10,7 +10,7 @@
 ```text
 🚓 Grand Theft Auto V               🕘 204 hrs 43 mins
 🎮 Fall Guys: Ultimate Knockout     🕘 39 hrs 53 mins
-🎮 Terraria                         🕘 31 hrs 56 mins
+🎮 Terraria                         🕘 32 hrs 23 mins
 🎮 Factorio                         🕘 27 hrs 40 mins
 🎮 仙剑奇侠传四(Chinese Paladin：Sword and Fairy 4) 🕘 27 hrs 2 mins
 ```
