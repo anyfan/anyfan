@@ -12,7 +12,7 @@
 🎮 Fall Guys: Ultimate Knockout     🕘 39 hrs 53 mins
 🎮 Terraria                         🕘 32 hrs 33 mins
 🎮 Factorio                         🕘 27 hrs 40 mins
-🎮 Live2DViewerEX                   🕘 27 hrs 18 mins
+🎮 Live2DViewerEX                   🕘 27 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
