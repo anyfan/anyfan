@@ -11,8 +11,8 @@
 🚓 Grand Theft Auto V               🕘 204 hrs 43 mins
 🎮 Fall Guys: Ultimate Knockout     🕘 39 hrs 53 mins
 🎮 Terraria                         🕘 32 hrs 33 mins
+🎮 Live2DViewerEX                   🕘 28 hrs 29 mins
 🎮 Factorio                         🕘 27 hrs 40 mins
-🎮 Live2DViewerEX                   🕘 27 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
