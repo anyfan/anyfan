@@ -8,7 +8,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/2bb05a98c541b99e8793360d7e14488a" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🚓 Grand Theft Auto V               🕘 210 hrs 40 mins
+🚓 Grand Theft Auto V               🕘 211 hrs 41 mins
 🎮 Fall Guys: Ultimate Knockout     🕘 42 hrs 57 mins
 🎮 Terraria                         🕘 32 hrs 35 mins
 🎮 Live2DViewerEX                   🕘 28 hrs 29 mins
