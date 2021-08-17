@@ -9,7 +9,7 @@
 #### <a href="https://gist.github.com/2bb05a98c541b99e8793360d7e14488a" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🚓 Grand Theft Auto V               🕘 213 hrs 56 mins
-🎮 Oxygen Not Included              🕘 77 hrs 22 mins
+🎮 Oxygen Not Included              🕘 78 hrs 22 mins
 🎮 Fall Guys: Ultimate Knockout     🕘 42 hrs 57 mins
 🎮 Terraria                         🕘 32 hrs 46 mins
 🎮 Live2DViewerEX                   🕘 28 hrs 29 mins
