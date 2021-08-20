@@ -12,7 +12,7 @@
 🎮 Oxygen Not Included              🕘 103 hrs 42 mins
 🎮 Fall Guys: Ultimate Knockout     🕘 42 hrs 57 mins
 🎮 Terraria                         🕘 32 hrs 49 mins
-🎮 Live2DViewerEX                   🕘 28 hrs 29 mins
+🎮 Live2DViewerEX                   🕘 28 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
