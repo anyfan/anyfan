@@ -11,7 +11,7 @@
 🚓 Grand Theft Auto V               🕘 213 hrs 57 mins
 🎮 Oxygen Not Included              🕘 103 hrs 42 mins
 🎮 Fall Guys: Ultimate Knockout     🕘 42 hrs 57 mins
-🎮 Terraria                         🕘 33 hrs 47 mins
+🎮 Terraria                         🕘 34 hrs 17 mins
 🎮 Live2DViewerEX                   🕘 28 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
