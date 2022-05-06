@@ -1,6 +1,5 @@
 <p>
-<!--   <img src="https://moe-counter.anyfan.repl.co/get/@github.readme"> -->
-  <img src="https://api.anyfan.top/count/?name=anyfan">
+  <img src="https://moe-count.anyfan.repl.co/get/@anyfan">
   <img src="https://weather-icon.anyfan.repl.co/@shanghai" align="right">
 </p>
 
