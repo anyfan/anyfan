@@ -1,6 +1,5 @@
 <p>
-  <!--<img src="https://moe-count.anyfan.repl.co/get/@anyfan">-->
-  <img src="https://count.getloli.com/get/@anyfan_readme?theme=moebooru">
+  <img src="https://moe-count.vercel.app/?name=anyfan">
   <img src="https://weather-icon.anyfan.repl.co/@shanghai" align="right">
 </p>
 
