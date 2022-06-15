@@ -21,8 +21,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5c5782f031552061812db2d260d88847" target="_blank">📊 Weekly development breakdown</a>
 ```text
-JSON     🕓 3m █████████████████████████████░░░░ 88.2%
-Markdown 🕓 0s ███▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.8%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
