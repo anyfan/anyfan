@@ -7,11 +7,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/2bb05a98c541b99e8793360d7e14488a" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
+🎮 Oxygen Not Included              🕘 326 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 213 hrs 57 mins
-🎮 Oxygen Not Included              🕘 177 hrs 30 mins
-🎮 Fall Guys: Ultimate Knockout     🕘 42 hrs 57 mins
+🎮 Fall Guys                        🕘 42 hrs 57 mins
 🎮 Terraria                         🕘 39 hrs 37 mins
-🎮 Live2DViewerEX                   🕘 29 hrs 38 mins
+🎮 Live2DViewerEX                   🕘 29 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
