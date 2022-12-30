@@ -11,7 +11,7 @@
 🚓 Grand Theft Auto V               🕘 213 hrs 57 mins
 🎮 Fall Guys                        🕘 42 hrs 57 mins
 🎮 Terraria                         🕘 39 hrs 37 mins
-🎮 Factorio                         🕘 30 hrs 5 mins
+🎮 Factorio                         🕘 30 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
