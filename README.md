@@ -10,7 +10,7 @@
 🎮 Oxygen Not Included              🕘 612 hrs 30 mins
 🚓 Grand Theft Auto V               🕘 213 hrs 57 mins
 🎮 Fall Guys                        🕘 42 hrs 57 mins
-🎮 Terraria                         🕘 39 hrs 37 mins
+🎮 Terraria                         🕘 39 hrs 43 mins
 🎮 Factorio                         🕘 31 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
