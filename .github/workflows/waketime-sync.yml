@@ -1,5 +1,7 @@
-name: Update gist with WakaTime summary(sync)
+name: Sync gist with WakaTime summary
 on:
+  workflow_dispatch:
+  
   schedule:
     - cron: '40 1 * * *'
 jobs:
