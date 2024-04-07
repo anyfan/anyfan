@@ -1,18 +1,55 @@
-name: Sync gist with WakaTime summary
+name: Sync gist with WakaTime summary and update README.md stats
+
 on:
   workflow_dispatch:
   
   schedule:
     - cron: '40 1 * * *'
+
 jobs:
-  update-gist:
+  Sync-gist:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - name: Update gist
+      - name: Sync gist
         uses: superman66/wakatime-sync@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 626f23e89b0a547ac7ab81ab482c6274
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SCU_KEY: ${{ secrets.SCU_KEY }}
+
+  update-readme:
+    name: Update-waka-stats-to-readme
+    runs-on: ubuntu-latest
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      UPDATE_OPTION: GIST_AND_MARKDOWN
+      MARKDOWN_FILE: README.md
+      GIST_ID: 5c5782f031552061812db2d260d88847
+      GIST_BARSTYLE: SOLIDLT
+      GIST_BARLENGTH: -1
+      GIST_TIMESTYLE: SHORT
+
+    steps:
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.14
+        id: go
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+      - name: Clone and run waka-box
+        run: |-
+          git clone https://github.com/anyfan/waka-box-go.git
+          cd waka-box-go && go build -o waka ./cmd/box/main.go
+          mv ./waka ../ && cd .. && rm -rf waka-box-go/
+      - name: Commit and push
+        run: |-
+          ./waka
+          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git pull && git push
